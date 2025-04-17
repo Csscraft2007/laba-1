@@ -9,4 +9,4 @@ def count_jewels_in_stones(J, S):
 J = "ab"
 S = "aabbccd"
 result = count_jewels_in_stones(J, S)
-print(result)  # Вывод: 4
+print(result)
